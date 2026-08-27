@@ -25,10 +25,10 @@ Lecturer at FAGOB Universidad de Chile.
 <summary>📁 <b>GovTech & Regulatory Compliance</b></summary>
 <br>
 
-| Repository | Scope / Overview | Stack |
-| :--- | :--- | :--- |
-| [**validador-datos-personales**](https://github.com/evegat/validador-datos-personales) | Interactive gap diagnostic tool for Local Government Data Protection Compliance. | Astro · TypeScript · Tailwind |
-| [**catastro-ordenanzas-municipales**](https://github.com/evegat/catastro-ordenanzas-municipales) | Automated BCN SPARQL extraction pipeline and dataset indexing 1,570+ municipal bylaws. | SPARQL · Python · Open Data |
+| Repository | Scope / Overview | Stack | Live / Output |
+| :--- | :--- | :--- | :--- |
+| [**catastro-ordenanzas-municipales**](https://github.com/evegat/catastro-ordenanzas-municipales) | Automated BCN SPARQL extraction pipeline and dataset indexing 1,570+ municipal bylaws. | SPARQL · Python · Open Data | [🌐 **Live Demo**](https://evegat.github.io/catastro-ordenanzas-municipales/) |
+| [**validador-datos-personales**](https://github.com/evegat/validador-datos-personales) | Interactive gap diagnostic tool for Local Government Data Protection Compliance. | Astro · TypeScript · Tailwind | *Open Source* |
 
 </details>
 
@@ -36,11 +36,11 @@ Lecturer at FAGOB Universidad de Chile.
 <summary>📁 <b>Data Science, Machine Learning & Public Procurement</b></summary>
 <br>
 
-| Repository | Scope / Overview | Stack |
-| :--- | :--- | :--- |
-| [**figem-analisis-fiscal-municipal**](https://github.com/evegat/figem-analisis-fiscal-municipal) | Reproducible econometric research: clustering (Ward, PAM), PCA, and fixed effects on municipal fiscal incentives (Montecinos & Vega, 2025). | Python · Econometrics · scikit-learn |
-| [**modelo-predictivo-educacion**](https://github.com/evegat/modelo-predictivo-educacion) | Machine learning pipeline modeling contextual drivers in secondary education vocation. | Python · Random Forest · Jupyter |
-| [**catastro-binders-chilecompra**](https://github.com/evegat/catastro-binders-chilecompra) | Exploratory analysis and taxonomy of national public procurement records (ChileCompra). | Python · Pandas |
+| Repository | Scope / Overview | Stack | Output / Paper |
+| :--- | :--- | :--- | :--- |
+| [**figem-analisis-fiscal-municipal**](https://github.com/evegat/figem-analisis-fiscal-municipal) | Reproducible econometric research: clustering (Ward, PAM), PCA, and fixed effects on municipal fiscal incentives (Montecinos & Vega, 2025). | Python · Econometrics · scikit-learn | [📄 **Paper (BibTeX)**](https://github.com/evegat/figem-analisis-fiscal-municipal#academic-reference) |
+| [**modelo-predictivo-educacion**](https://github.com/evegat/modelo-predictivo-educacion) | Machine learning pipeline modeling contextual drivers in secondary education vocation. | Python · Random Forest · Jupyter | *ML Pipeline* |
+| [**catastro-binders-chilecompra**](https://github.com/evegat/catastro-binders-chilecompra) | Exploratory analysis and taxonomy of national public procurement records (ChileCompra). | Python · Pandas | *Open Data* |
 
 </details>
 

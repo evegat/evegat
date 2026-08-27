@@ -1,5 +1,8 @@
 ﻿# Eduardo Vega Toledo
 
+[![Español](https://img.shields.io/badge/Language-Espa%C3%B1ol-blue.svg)](README.md)
+[![English](https://img.shields.io/badge/Language-English-lightgrey.svg)](README.en.md)
+
 **Administrador Público · Magíster en Gobierno y Gerencia Pública · Est. Ing. Civil Informática**  
 Gobernanza tecnológica, analítica de datos e inteligencia artificial aplicada al sector público.  
 Docente en FAGOB Universidad de Chile.

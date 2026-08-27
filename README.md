@@ -30,13 +30,14 @@ Docente en FAGOB Universidad de Chile.
 </details>
 
 <details open>
-<summary>📁 <b>Ciencia de Datos, IA & Modelamiento</b></summary>
+<summary>📁 <b>Ciencia de Datos, IA & Compras Públicas</b></summary>
 <br>
 
 | Proyecto | Descripción | Stack |
 | :--- | :--- | :--- |
 | [**figem-analisis-fiscal-municipal**](https://github.com/evegat/figem-analisis-fiscal-municipal) | Investigación reproducible, clustering (K-Means, Ward, PAM), PCA y efectos fijos sobre el FIGEM en municipios (Montecinos & Vega, 2025). | Python · Econometría · scikit-learn |
 | [**modelo-predictivo-educacion**](https://github.com/evegat/modelo-predictivo-educacion) | Modelamiento predictivo y clasificación de factores contextuales en educación media mediante Machine Learning. | Python · Random Forest · Jupyter |
+| [**catastro-binders-chilecompra**](https://github.com/evegat/catastro-binders-chilecompra) | Análisis exploratorio, catastro y taxonomía de procesos de licitación y compra pública en Chile. | Python · Pandas |
 
 </details>
 

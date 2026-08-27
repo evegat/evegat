@@ -2,7 +2,7 @@
 
 **Administrador Público · Magíster en Gobierno y Gerencia Pública · Est. Ing. Civil Informática**  
 Gobernanza tecnológica, analítica de datos e inteligencia artificial aplicada al sector público.  
-Director en [ONG InnCívica](https://inncivica.cl) · Docente en FAGOB Universidad de Chile.
+Docente en FAGOB Universidad de Chile.
 
 [💼 LinkedIn](https://linkedin.com/in/evegat1989) · [✉️ Personal](mailto:evega.ap@gmail.com) · [🎓 Institucional](mailto:evegat@uchile.cl)
 

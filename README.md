@@ -1,69 +1,63 @@
-﻿# Eduardo Vega Toledo
+<div align="center">
 
-[![Español](https://img.shields.io/badge/Language-Espa%C3%B1ol-blue.svg)](README.md)
-[![English](https://img.shields.io/badge/Language-English-lightgrey.svg)](README.en.md)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=C9D1D9&center=true&vCenter=true&width=620&lines=Eduardo+Vega+Toledo;GovTech+%C2%B7+Data+Science+%C2%B7+AI+Systems" alt="Typing SVG" />
 
-**Administrador Público · Magíster en Gobierno y Gerencia Pública · Est. Ing. Civil Informática**  
-Gobernanza tecnológica, analítica de datos e inteligencia artificial aplicada al sector público.  
-Docente en FAGOB Universidad de Chile.
+**Administrador Público · Mg. Gobierno y Gerencia Pública · Est. Ing. Civil Informática**  
+**Docente en FAGOB Universidad de Chile · Registro Público de Expertos (Min. Hacienda)**
 
-[💼 LinkedIn](https://linkedin.com/in/evegat1989) · [✉️ Personal](mailto:evega.ap@gmail.com) · [🎓 Institucional](mailto:evegat@uchile.cl)
+Gobernanza tecnológica, observatorios reproducibles e inteligencia artificial aplicada al sector público.
+<br/>
+🇨🇱 Santiago de Chile
 
----
+<br/>
 
-### 🏛️ Áreas de especialización
+<a href="https://evegat.cl"><img src="https://img.shields.io/badge/Web-evegat.cl-2ea44f?style=for-the-badge" /></a>
+<a href="https://linkedin.com/in/evegat1989"><img src="https://img.shields.io/badge/LinkedIn-evegat1989-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:evega.ap@gmail.com"><img src="https://img.shields.io/badge/Email-Contacto-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="README.en.md"><img src="https://img.shields.io/badge/Language-English-6E7681?style=for-the-badge" /></a>
 
-- **GovTech & Modernización del Estado:** Diseño e implementación de soluciones tecnológicas, interoperabilidad, transparencia y gobernanza de datos para el sector público.
-- **Ciencia de Datos & Políticas Públicas:** Procesamiento cuantitativo, econometría y modelamiento sobre grandes bases administrativas (educación, finanzas municipales, compras públicas).
-- **Inteligencia Artificial Aplicada:** Modelos predictivos de machine learning, procesamiento de lenguaje natural y herramientas de diagnóstico para el cumplimiento normativo.
-
----
-
-### 🗂️ Repositorios & Proyectos por Área
-
-<details open>
-<summary>📁 <b>GovTech & Cumplimiento Normativo</b></summary>
-<br>
-
-| Proyecto | Descripción | Stack | Demo / Salida |
-| :--- | :--- | :--- | :--- |
-| [**catastro-ordenanzas-municipales**](https://github.com/evegat/catastro-ordenanzas-municipales) | Pipeline de extracción SPARQL (BCN) y catálogo estructurado de más de 1.570 ordenanzas municipales. | SPARQL · Python · Open Data | [🌐 **Demo en Vivo**](https://evegat.github.io/catastro-ordenanzas-municipales/) |
-| [**validador-datos-personales**](https://github.com/evegat/validador-datos-personales) | Herramienta interactiva de autodiagnóstico y cumplimiento de la Ley de Protección de Datos Personales en el ámbito municipal. | Astro · TypeScript · Tailwind | *Open Source* |
-
-</details>
-
-<details open>
-<summary>📁 <b>Ciencia de Datos, IA & Compras Públicas</b></summary>
-<br>
-
-| Proyecto | Descripción | Stack | Salida / Paper |
-| :--- | :--- | :--- | :--- |
-| [**figem-analisis-fiscal-municipal**](https://github.com/evegat/figem-analisis-fiscal-municipal) | Investigación reproducible, clustering (K-Means, Ward, PAM), PCA y efectos fijos sobre el FIGEM en municipios (Montecinos & Vega, 2025). | Python · Econometría · scikit-learn | [📄 **Paper (BibTeX)**](https://github.com/evegat/figem-analisis-fiscal-municipal#cita-bibliogr%C3%A1fica-bibtex) |
-| [**modelo-predictivo-educacion**](https://github.com/evegat/modelo-predictivo-educacion) | Modelamiento predictivo y clasificación de factores contextuales en educación media mediante Machine Learning. | Python · Random Forest · Jupyter | *ML Pipeline* |
-| [**catastro-binders-chilecompra**](https://github.com/evegat/catastro-binders-chilecompra) | Análisis exploratorio, catastro y taxonomía de procesos de licitación y compra pública en Chile. | Python · Pandas | *Open Data* |
-
-</details>
-
-<details>
-<summary>📁 <b>Plataformas Web & Arquitectura Frontend</b></summary>
-<br>
-
-| Proyecto | Descripción | Stack |
-| :--- | :--- | :--- |
-| [**evegat-cl**](https://github.com/evegat/evegat-cl) | Código fuente y arquitectura de mi plataforma de portafolio y notas técnicas. | Astro · TypeScript · Tailwind |
-
-</details>
+</div>
 
 ---
 
-### 🛠️ Stack & Herramientas
+### What I'm Building
 
-- **Datos & ML:** Python (pandas, scikit-learn, statsmodels, NumPy), R (tidyverse, clustering), SQL (PostgreSQL, Oracle).
-- **Desarrollo Web & GovTech:** TypeScript, Astro, Node.js, Tailwind CSS, SPARQL / RDF.
-- **Entorno & Operaciones:** Git/GitHub, Docker, Linux, APIs de LLMs (Gemini, Claude, OpenAI), Obsidian.
+Proyectos abiertos de gobernanza tecnológica, analítica fiscal municipal y sistemas cívicos:
+
+| | Proyecto | Descripción | |
+|---|---|---|---|
+| 🏛️ | **[Interoperabilidad Estado](https://github.com/evegat/interoperabilidad-estado-chileno)** | Observatorio interactivo del grafo de interoperabilidad pública (Ley 21.180, PISEE). TypeScript. | ![Stars](https://img.shields.io/github/stars/evegat/interoperabilidad-estado-chileno?style=flat-square&label=%E2%AD%90) |
+| 🏙️ | **[Observatorio TI Municipal](https://github.com/evegat/observatorio-ti-municipal)** | Radiografía 4D de compras tecnológicas y transformación digital en los 346 municipios. Python / Web. | ![Stars](https://img.shields.io/github/stars/evegat/observatorio-ti-municipal?style=flat-square&label=%E2%AD%90) |
+| 🧭 | **[NormatIA / Brújula IA](https://github.com/evegat/brujula-ia-edusuperior)** | Observatorio de protocolos de IA en educación superior chilena. Astro. | ![Stars](https://img.shields.io/github/stars/evegat/brujula-ia-edusuperior?style=flat-square&label=%E2%AD%90) |
+| 📊 | **[FIGEM Análisis Fiscal](https://github.com/evegat/figem-analisis-fiscal-municipal)** | Investigación reproducible, clustering (K-Means/PAM) y efectos fijos (Montecinos & Vega, 2025). | ![Stars](https://img.shields.io/github/stars/evegat/figem-analisis-fiscal-municipal?style=flat-square&label=%E2%AD%90) |
+| 📜 | **[Catastro Ordenanzas](https://github.com/evegat/catastro-ordenanzas-municipales)** | Pipeline SPARQL (BCN) y catálogo estructurado de +1.570 ordenanzas municipales. | ![Stars](https://img.shields.io/github/stars/evegat/catastro-ordenanzas-municipales?style=flat-square&label=%E2%AD%90) |
+| 🛡️ | **[Validador Datos Personales](https://github.com/evegat/validador-datos-personales)** | Autodiagnóstico interactivo y cumplimiento normativo de la Ley de Datos Personales. Astro / TS. | ![Stars](https://img.shields.io/github/stars/evegat/validador-datos-personales?style=flat-square&label=%E2%AD%90) |
+
+### Tech DNA
+
+```
+GovTech & Datos   Econometría · Modelos de Efectos Fijos · Clustering · SPARQL / RDF
+AI & Agentes      MCP Servers · Claude Code · Antigravity · Engram Memory · LLM Pipelines
+Lenguajes         Python · TypeScript · Astro · SQL (PostgreSQL, Oracle) · R
+Arquitectura      Clean · Hexagonal · Spec-Driven (ODD) · Contratos de Datos
+Infra & Entorno   Docker · Linux · Coolify · PowerShell · Neovim · Obsidian
+```
 
 ---
 
-<p align="center">
-  <sub>Santiago de Chile · Registro Público de Expertos en Evaluación (Min. Hacienda)</sub>
-</p>
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=evegat&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
+<img src="https://streak-stats.demolab.com/?user=evegat&theme=github-dark-blue&hide_border=true" height="165" />
+
+<br/><br/>
+
+*Evidencia empírica sobre supuestos. Arquitectura de sistemas sobre improvisación.*
+<br/>
+*Human in the loop, AI on the harness.*
+
+<br/>
+
+<sub>Santiago de Chile · FAGOB Universidad de Chile</sub>
+
+</div>
